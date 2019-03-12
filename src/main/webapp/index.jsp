@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hi thi is my first maven build</h2>
+<h2>Hi this is my first deployment on tomcat server</h2>
 </body>
 </html>
